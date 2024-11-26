@@ -93,6 +93,7 @@ An interactive interface, built with Streamlit, allows users to:
 
 ## Code and Models
 - **Training Code**: The code to train all the models is available in the `models/` directory.
+- **Pretrained Models**: Saved models are provided in the `models/` directory for reuse.
 - **Interface Code**: Streamlit interface implementation is located in the `src/` directory.
 
 ## How to Run
