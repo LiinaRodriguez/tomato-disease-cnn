@@ -1,0 +1,9 @@
+tensorflow==2.18.0
+keras
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+Pillow
+scikit-learn
