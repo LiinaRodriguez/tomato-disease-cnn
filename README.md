@@ -1,7 +1,10 @@
 # Tomato Leaf Disease Detection
 
 This project aims to detect and classify 10 different types of diseases in tomato leaves using a Convolutional Neural Network (CNN). By analyzing images of tomato leaves, the model will identify the presence of specific diseases or healthy leaf status, aiding in early intervention and treatment.
-
+## Authors
+ - Jhonatan Ferrer
+ - Yarlinson Barranco
+ - Lina Rodriguez
 ## Table of Contents
 - [Overview](#overview)
 - [Dataset](#dataset)
